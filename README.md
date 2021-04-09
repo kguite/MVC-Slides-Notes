@@ -11,7 +11,7 @@ Controller is the middle man
 	do I need to talk to the database?
 	because if I need to, the model is going to handle that.
 
-	Model takes the data and hands it off to the view
+Model takes the data and hands it off to the view
 
 Html then sends it back to the browser
 
