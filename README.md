@@ -1,7 +1,24 @@
 # MVC-Slides-Notes
+   On April 8, Leon led a class about MVC.  What follows are my notes from the class, links to more information, and my finished assignment, which is a set of slides to teach MVC in the context of our Todo List App Code.
 
 
-LEON CLASS APRIL 8
+## MVC - Model - View - Controller
+April 8 Class Link: https://www.twitch.tv/videos/980436142
+Further Learning
+	Video by DevMarketer: https://www.youtube.com/watch?v=1IsL6g2ixak <br>
+	Video by TraversyMedia: https://www.youtube.com/watch?v=pCvZtjoRq1I <br>
+	ToDoList Code:   https://github.com/100devs/todo-mvc <br>
+	Slides.com:  <br>
+	Peudocode example from TraversyMedia:  <br>
+	
+<img width="1030" alt="Screen Shot 2021-04-13 at 1 14 10 PM" src="https://user-images.githubusercontent.com/33885541/114615397-7f337300-9c5a-11eb-9c59-a325983f3a15.png">
+
+	
+	
+	
+	
+## Notes from Leon's Class:
+
 
 Browser looks at router
 
