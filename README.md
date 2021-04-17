@@ -1,5 +1,5 @@
 # MVC-Slides-Notes
-   On April 8, Leon led a class about MVC.  What follows are my notes from the class, links to more information, and my finished assignment, which is a set of slides to teach MVC in the context of our Todo List App Code.
+   On April 8, class about MVC.  What follows are my notes from the class, links to more information, and my finished assignment, which is a set of slides to teach MVC in the context of our Todo List App Code.
 
 
 ## MVC - Model - View - Controller
